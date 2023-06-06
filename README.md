@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Welcome to my Profile! 🌟<br><br>👨‍💻 Junior .NET Software Developer | Coding Enthusiast 🚀<br>🔥 Passionate about Technology, Creating Innovative Solutions, and Making an Impact! 💡<br>🎂 Age: 23<br><br>🌐 Expertise:<br>✅ Proficient in .NET Framework and C# programming language<br>✅ Skilled in C++ programming language<br>✅ Skilled in developing robust and scalable applications<br>✅ Knowledgeable in database management and SQL<br>✅ Familiar with front-end development using HTML, CSS, and JavaScript
+🌟 Welcome to my Profile! 🌟<br><br>👨‍💻 Junior .NET Software Developer | Coding Enthusiast 🚀<br>🔥 Passionate about Technology, Creating Innovative Solutions, and Making an Impact! 💡<br><br>🌐 Expertise:<br>✅ Proficient in .NET Framework and C# programming language<br>✅ Skilled in C++ programming language<br>✅ Skilled in developing robust and scalable applications<br>✅ Knowledgeable in database management and SQL<br>✅ Familiar with front-end development using HTML, CSS, and JavaScript
 
 
 # 💻 Tech Stack:
