@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 .NET Software Developer | Coding Enthusiast 🚀 | Open Source Enjoyer
+👨‍💻 Software Developer | Coding Enthusiast 🚀 | Open Source Enjoyer
 
 
 # 💻 Tech Stack:
