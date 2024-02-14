@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Developer | Coding Enthusiast 🚀 | Open Source Enjoyer
+👨‍💻 Software Developer | Open Source Enjoyer 🦀
 
 
 # 💻 Tech Stack:
