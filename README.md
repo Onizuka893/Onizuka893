@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an intern😭<br>🌱 I’m currently learning Elixir
+🔭 🌱 I’m currently learning Elixir
 
 
 ## 🌐 Socials:
