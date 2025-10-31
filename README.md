@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 🌱
+![counter](https://count.getloli.com/@onizuka893?name=onizuka893&theme=booru-mjg&padding=3&offset=10&align=top&scale=1&pixelated=0&darkmode=auto)
 
 
 ## 🌐 Socials:
